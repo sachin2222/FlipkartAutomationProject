@@ -1,0 +1,21 @@
+2021-03-05 17:42:37 INFO  AddToCart onStart :29 - Log4J.xml File Has Been Configured.
+2021-03-05 17:42:42 INFO  AddToCart onTestStart :45 - navigate_Flipkart_URL:Started
+2021-03-05 17:42:49 DEBUG AddToCart onTestSuccess :54 - navigate_Flipkart_URL:Passed
+2021-03-05 17:42:49 INFO  AddToCart onTestStart :45 - click_On_Mobile:Started
+2021-03-05 17:42:52 DEBUG AddToCart onTestSuccess :54 - click_On_Mobile:Passed
+2021-03-05 17:42:52 INFO  AddToCart onTestStart :45 - select_required_phone_checkbox:Started
+2021-03-05 17:43:02 DEBUG AddToCart onTestSuccess :54 - select_required_phone_checkbox:Passed
+2021-03-05 17:43:02 INFO  AddToCart onTestStart :45 - choose_required_phone:Started
+2021-03-05 17:43:03 DEBUG AddToCart onTestSuccess :54 - choose_required_phone:Passed
+2021-03-05 17:43:03 INFO  AddToCart onTestStart :45 - add_to_cart:Started
+2021-03-05 17:43:13 DEBUG AddToCart onTestSuccess :54 - add_to_cart:Passed
+2021-03-05 17:43:13 INFO  AddToCart onTestStart :45 - place_order:Started
+2021-03-05 17:43:24 DEBUG AddToCart onTestSuccess :54 - place_order:Passed
+2021-03-05 17:43:24 INFO  AddToCart onTestStart :45 - Enter_Phone_Number:Started
+2021-03-05 17:43:25 DEBUG AddToCart onTestSuccess :54 - Enter_Phone_Number:Passed
+2021-03-05 17:43:25 INFO  AddToCart onTestStart :45 - Click_On_Continue:Started
+2021-03-05 17:43:25 DEBUG AddToCart onTestSuccess :54 - Click_On_Continue:Passed
+2021-03-05 17:43:25 INFO  AddToCart onTestStart :45 - Enter_Password:Started
+2021-03-05 17:43:25 DEBUG AddToCart onTestSuccess :54 - Enter_Password:Passed
+2021-03-05 17:43:25 INFO  AddToCart onTestStart :45 - Login_into_Flipkart:Started
+2021-03-05 17:43:25 DEBUG AddToCart onTestSuccess :54 - Login_into_Flipkart:Passed
